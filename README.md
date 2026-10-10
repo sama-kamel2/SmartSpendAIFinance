@@ -180,11 +180,7 @@ SmartSpend AI uses Supabase email/password authentication:
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
-
----
 
 ## Acknowledgements
 
